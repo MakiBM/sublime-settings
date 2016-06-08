@@ -29,6 +29,6 @@ This is my backup of Sublime Text 3 settings. Feel free to use it if you need to
 
 ## Using Git
 
-Go to your Sublime Text 3 Packages directory and lone the settings repository using the command below:
+Go to your Sublime Text 3 Packages directory and clone the settings repository using the command below:
 
     git clone https://github.com/MakiBM/Sublime-Text-3-Settings.git "User"
