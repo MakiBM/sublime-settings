@@ -1,0 +1,27 @@
+{
+	"bootstrapped": true,
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"AutoFileName",
+		"Babel",
+		"BracketHighlighter",
+		"DocBlockr",
+		"EditorConfig",
+		"Emmet",
+		"JavaScript Console",
+		"Material Theme",
+		"Package Control",
+		"SCSS",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-jshint"
+	],
+	"theme": "Material-Theme.sublime-theme"
+}
