@@ -1,6 +1,6 @@
 # About
 
-This is my backup of Sublime Text 3 settings. Feel free to use it if you need to get up and running. I'm a Front-End Dev so you may expect to have tooling focused around JS.
+This is my backup of Sublime Text 3 settings. Feel free to use it if you need to get up and running fast. I'm a FrontEnd Dev so you may expect to have some tooling focused around it. Plus it looks nice ;)
 
 ## Currently inside
 
@@ -22,7 +22,7 @@ This is my backup of Sublime Text 3 settings. Feel free to use it if you need to
 
 # Requirements:
 
-- [Sublime Text 3](http://www.sublimetext.com/)
+- [Sublime Text 3. Up to date for Material Theme](http://www.sublimetext.com/)
 - [Package Control](https://packagecontrol.io/installation)
 
 # Installation
